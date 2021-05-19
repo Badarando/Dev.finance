@@ -1,0 +1,4 @@
+para transformar algo para o tema escuro: 
+1 - ter todas as cores em variaveis na :root;
+2 - depois criar uma class na root com toda a atualização de cores;
+3 - ir no script e criar um addeventlistener que vai funcionar pelo click e "toogle" o dark mode
